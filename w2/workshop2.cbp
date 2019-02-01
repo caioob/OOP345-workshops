@@ -31,9 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../Text.h" />
-		<Unit filename="../Timekeeper.h" />
-		<Unit filename="../w2.cpp" />
+		<Unit filename="Text.h" />
+		<Unit filename="Timekeeper.cpp" />
+		<Unit filename="Timekeeper.h" />
+		<Unit filename="w2.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

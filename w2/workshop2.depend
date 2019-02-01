@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1549045524 source:c:\users\gahgas\documents\oop345-workshops\w2\timekeeper.cpp
+	<iostream>
+	<chrono>
+	"Timekeeper.h"
+
+1549043724 c:\users\gahgas\documents\oop345-workshops\w2\timekeeper.h
+	<chrono>
+
